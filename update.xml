@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.2.0</version>
-  <url>https://github.com/hexgangking-oss/hexgangexternalmax-update/blob/main/HEX%20GANG%201.0.exe</url>
-  <changelog>https://github.com/hexgangking-oss/hexgangexternalmax-update/blob/main/changelog.txt</changelog>
-  <mandatory>true</mandatory>
+  <url>https://github.com/hexgangking-oss/hexgangexternalmax-update/releases/download/OB52.1/HEX.GANG.1.0.exe</url>
+  <changelog>https://raw.githubusercontent.com/hexgangking-oss/hexgangexternalmax-update/refs/heads/main/changelog.txt</changelog>
+  <mandatory>false</mandatory>
 </item>
