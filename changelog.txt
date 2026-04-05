@@ -1,0 +1,15 @@
+Update 1.1.0
+
+New Features
+- Added Auto Inject
+- Added Drag Detection
+- Added New ESP Mode
+
+Fixes
+- Fixed memory scan crash
+- Fixed overlay lag
+- Fixed UI freeze issue
+
+Improvements
+- Faster AoB scanning
+- Better stability

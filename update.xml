@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>1.2.0</version>
+  <url>https://github.com/username/repo/releases/download/v1.2/MyApp.exe</url>
+  <changelog>https://raw.githubusercontent.com/username/repo/main/changelog.txt</changelog>
+  <mandatory>false</mandatory>
+</item>
