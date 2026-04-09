@@ -1,15 +1,20 @@
-Update 1.1.0
+**Update 1.1.0 – Changelog**
 
-New Features
-- Added Auto Inject
-- Added Drag Detection
-- Added New ESP Mode
+**🚀 New Features**
 
-Fixes
-- Fixed memory scan crash
-- Fixed overlay lag
-- Fixed UI freeze issue
+* Added **AimBot AI Pro** *(No Male or Female bug)* – Play like a pro
+* Added **Multiple Drag Aimbot Methods**
+* Added **Selectable Drag Method**
+* Updated and optimized **Sniper Scope Method**
+* Added a **New Memory System**
 
-Improvements
-- Faster AoB scanning
-- Better stability
+**🛠 Fixes**
+
+* Fixed **crash issues**
+
+**⚡ Improvements**
+
+* Faster **AoB scanning**
+* Improved **stability**
+* Improved **UI**
+* Reduced user errors with a more **automated system**
