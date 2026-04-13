@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.1.0</version>
-  <url>https://github.com/hexgangking-oss/hexgangexternalmax-update/releases/download/OB53-1.1.0.0/HEXGANG.EXTERNAL.MAX.-.OB53.1.1.0.0.exe</url>
+  <version>1.2.0</version>
+  <url>https://github.com/hexgangking-oss/hexgangexternalmax-update/releases/download/OB53/HEX.GANG.EXTERNAL.MAX.exe</url>
   <changelog>https://raw.githubusercontent.com/hexgangking-oss/hexgangexternalmax-update/refs/heads/main/changelog.txt</changelog>
   <mandatory>false</mandatory>
 </item>
